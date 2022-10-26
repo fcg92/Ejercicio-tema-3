@@ -1,0 +1,8 @@
+public class Main {
+	public static void main(String[] args {
+  suma_tres(a:1,b:2,c:3);
+  }
+  public static int suma_tres(int a, int b, int c){
+    return a + b + c;
+  }
+}
